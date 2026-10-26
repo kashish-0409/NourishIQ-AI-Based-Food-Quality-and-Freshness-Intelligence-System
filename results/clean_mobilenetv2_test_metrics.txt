@@ -1,0 +1,7 @@
+Test samples: 2211
+Test accuracy: 0.8937 (89.37%)
+Test loss: 0.3013
+Macro precision: 0.8999
+Macro recall: 0.9005
+Macro F1: 0.8955
+Weighted F1: 0.8933
