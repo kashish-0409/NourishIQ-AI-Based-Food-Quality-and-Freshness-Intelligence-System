@@ -1,6 +1,1 @@
-
-streamlit
-tensorflow==2.16.1
-numpy
-pandas
-Pillow
+https://github.com/kashish-0409/NourishIQ-AI-Based-Food-Quality-and-Freshness-Intelligence-System/blob/main/requirements.txt
