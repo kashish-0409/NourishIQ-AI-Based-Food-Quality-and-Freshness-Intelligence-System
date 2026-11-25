@@ -1,1 +1,1 @@
-https://github.com/kashish-0409/NourishIQ-AI-Based-Food-Quality-and-Freshness-Intelligence-System/blob/main/requirements.txt
+https://github.com/kashish-0409/NourishIQ-AI-Based-Food-Quality-and-Freshness-Intelligence-System
